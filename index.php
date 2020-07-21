@@ -6,7 +6,7 @@
 print "welcome to our website for aws efs";
 
 
-print `ifconfig`;
+print `"Hello everyone";
 
 ?>
 
